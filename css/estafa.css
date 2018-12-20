@@ -1,0 +1,195 @@
+.version.estafa /* version checker */
+{
+	color: #000004;
+	background-color: #3A55FF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 699.5999999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -74px;
+	width: 0.01px;
+}
+
+#u106
+{
+	z-index: 2;
+	min-height: 53px;
+	padding-bottom: 8px;
+}
+
+#u122
+{
+	z-index: 26;
+	width: 157px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 120px;
+}
+
+#u125-4
+{
+	z-index: 27;
+	width: 118px;
+	min-height: 14px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 785px;
+}
+
+#u129-4
+{
+	z-index: 31;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 935px;
+}
+
+#u130-4
+{
+	z-index: 35;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 1084px;
+}
+
+#u106-bw
+{
+	z-index: 2;
+	min-height: 53px;
+}
+
+#u656
+{
+	z-index: 4;
+	height: 486px;
+	background: transparent url("../images/banco.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u656-bw
+{
+	z-index: 4;
+	height: 486px;
+}
+
+#u672-4
+{
+	z-index: 22;
+	width: 833px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 36px;
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 182px;
+	margin-top: 55px;
+	position: relative;
+}
+
+#u671-17
+{
+	z-index: 5;
+	width: 696px;
+	min-height: 332px;
+	background-color: transparent;
+	margin-left: 252px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u671-2,#u671-4,#u671-6,#u671-8,#u671-9,#u671-11,#u671-12,#u671-14
+{
+	text-align: justify;
+}
+
+#u134
+{
+	z-index: 3;
+	min-height: 48px;
+	padding-bottom: 26px;
+}
+
+#u106_align_to_page,#u134_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u136-4
+{
+	z-index: 39;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 905px;
+}
+
+#u137
+{
+	z-index: 43;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1056px;
+}
+
+#u139
+{
+	z-index: 44;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1121px;
+}
+
+#u134-bw
+{
+	z-index: 3;
+	min-height: 48px;
+	margin-top: 44px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-bottom: 73px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

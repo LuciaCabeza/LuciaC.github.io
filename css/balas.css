@@ -1,0 +1,191 @@
+.version.balas /* version checker */
+{
+	color: #0000E8;
+	background-color: #D5A6DE;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 699.6px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -74px;
+	width: 0.01px;
+}
+
+#u106
+{
+	z-index: 2;
+	min-height: 53px;
+	padding-bottom: 8px;
+}
+
+#u122
+{
+	z-index: 17;
+	width: 157px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 120px;
+}
+
+#u125-4
+{
+	z-index: 18;
+	width: 118px;
+	min-height: 14px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 785px;
+}
+
+#u129-4
+{
+	z-index: 22;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 935px;
+}
+
+#u130-4
+{
+	z-index: 26;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 1084px;
+}
+
+#u106-bw
+{
+	z-index: 2;
+	min-height: 53px;
+}
+
+#u660
+{
+	z-index: 4;
+	height: 486px;
+	background: transparent url("../images/cerditos.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u660-bw
+{
+	z-index: 4;
+	height: 486px;
+}
+
+#u674-4
+{
+	z-index: 13;
+	width: 709px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 36px;
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 244px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u673-8
+{
+	z-index: 5;
+	width: 696px;
+	min-height: 234px;
+	background-color: transparent;
+	text-align: justify;
+	margin-left: 252px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u134
+{
+	z-index: 3;
+	min-height: 48px;
+	padding-bottom: 26px;
+}
+
+#u106_align_to_page,#u134_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u136-4
+{
+	z-index: 30;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 905px;
+}
+
+#u137
+{
+	z-index: 34;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1056px;
+}
+
+#u139
+{
+	z-index: 35;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1121px;
+}
+
+#u134-bw
+{
+	z-index: 3;
+	min-height: 48px;
+	margin-top: 44px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-bottom: 73px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

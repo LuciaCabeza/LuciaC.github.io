@@ -1,0 +1,195 @@
+.version.zanahorias /* version checker */
+{
+	color: #0000F3;
+	background-color: #D497BD;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 699.6px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -74px;
+	width: 0.01px;
+}
+
+#u106
+{
+	z-index: 2;
+	min-height: 53px;
+	padding-bottom: 8px;
+}
+
+#u122
+{
+	z-index: 18;
+	width: 157px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 120px;
+}
+
+#u125-4
+{
+	z-index: 19;
+	width: 118px;
+	min-height: 14px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 785px;
+}
+
+#u129-4
+{
+	z-index: 23;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 935px;
+}
+
+#u130-4
+{
+	z-index: 27;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 1084px;
+}
+
+#u106-bw
+{
+	z-index: 2;
+	min-height: 53px;
+}
+
+#u662
+{
+	z-index: 4;
+	height: 486px;
+	background: transparent url("../images/manojo-zanahorias_61792-516.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u662-bw
+{
+	z-index: 4;
+	height: 486px;
+}
+
+#u678-4
+{
+	z-index: 14;
+	width: 709px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 36px;
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 244px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u677-9
+{
+	z-index: 5;
+	width: 696px;
+	min-height: 194px;
+	background-color: transparent;
+	margin-left: 252px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u677-2,#u677-3,#u677-5
+{
+	text-align: justify;
+}
+
+#u134
+{
+	z-index: 3;
+	min-height: 48px;
+	padding-bottom: 26px;
+}
+
+#u106_align_to_page,#u134_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u136-4
+{
+	z-index: 31;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 905px;
+}
+
+#u137
+{
+	z-index: 35;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1056px;
+}
+
+#u139
+{
+	z-index: 36;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1121px;
+}
+
+#u134-bw
+{
+	z-index: 3;
+	min-height: 48px;
+	margin-top: 44px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-bottom: 73px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

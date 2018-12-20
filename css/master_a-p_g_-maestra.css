@@ -1,0 +1,48 @@
+#u106
+{
+	background-color: #B62334;
+}
+
+#u122
+{
+	position: relative;
+	background: transparent url("../images/curiosity-02-02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u134
+{
+	background-color: #000000;
+}
+
+#u106_align_to_page,#u134_align_to_page
+{
+	position: relative;
+}
+
+#u125-4,#u129-4,#u130-4,#u136-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-size: 15px;
+	text-align: center;
+	line-height: 15px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u137
+{
+	position: relative;
+	background: transparent url("../images/facebook.gif") no-repeat left top;
+	background-size: contain;
+}
+
+#u139
+{
+	position: relative;
+	background: transparent url("../images/instagram.gif") no-repeat left top;
+	background-size: contain;
+}
+

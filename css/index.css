@@ -1,0 +1,562 @@
+.version.index /* version checker */
+{
+	color: #000008;
+	background-color: #E7CB73;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 699.75px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -74px;
+	width: 0.01px;
+}
+
+#u106
+{
+	z-index: 2;
+	min-height: 53px;
+	padding-bottom: 8px;
+}
+
+#u122
+{
+	z-index: 60;
+	width: 157px;
+	height: 44px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 120px;
+}
+
+#u125-4
+{
+	z-index: 61;
+	width: 118px;
+	min-height: 14px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 785px;
+}
+
+#u129-4
+{
+	z-index: 65;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 935px;
+}
+
+#u130-4
+{
+	z-index: 69;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 1084px;
+}
+
+#u106-bw
+{
+	z-index: 2;
+	min-height: 53px;
+}
+
+#slideshowu234
+{
+	z-index: 4;
+	width: 0.01px;
+	height: 486px;
+	left: -100px;
+	position: relative;
+}
+
+#u253
+{
+	position: absolute;
+	width: 1400px;
+	height: 486px;
+	background-color: transparent;
+}
+
+#u253popup
+{
+	z-index: 5;
+}
+
+#u256
+{
+	z-index: 6;
+	width: 1400px;
+	height: 486px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u297
+{
+	z-index: 8;
+	width: 1400px;
+	height: 486px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u306
+{
+	z-index: 10;
+	width: 1400px;
+	height: 486px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u315
+{
+	z-index: 12;
+	width: 1400px;
+	height: 486px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u722-4
+{
+	z-index: 56;
+	width: 709px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 36px;
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 244px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#pu335
+{
+	width: 0.01px;
+	margin-left: 102px;
+	margin-top: 35px;
+}
+
+#u335
+{
+	z-index: 14;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u334
+{
+	z-index: 15;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u333-4
+{
+	z-index: 17;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u325
+{
+	z-index: 16;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/cerditos-u325-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u336
+{
+	z-index: 35;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 598px;
+}
+
+#u337
+{
+	z-index: 36;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u338-4
+{
+	z-index: 38;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u339
+{
+	z-index: 37;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/1577-u339-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u346
+{
+	z-index: 21;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u347
+{
+	z-index: 22;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u348-4
+{
+	z-index: 24;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u349
+{
+	z-index: 23;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/banco-u349-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u350
+{
+	z-index: 42;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 598px;
+}
+
+#u352
+{
+	z-index: 43;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u351-4
+{
+	z-index: 45;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u353
+{
+	z-index: 44;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/carlosiii.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#pu346,#pu366
+{
+	width: 0.01px;
+	margin-left: 102px;
+	margin-top: 34px;
+}
+
+#u366
+{
+	z-index: 28;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u368
+{
+	z-index: 29;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u369-4
+{
+	z-index: 31;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u367
+{
+	z-index: 30;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/manojo-zanahorias_61792-516-u367-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u370
+{
+	z-index: 49;
+	width: 381px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 598px;
+}
+
+#u372
+{
+	z-index: 50;
+	width: 381px;
+	background-color: #646464;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+}
+
+#u373-4
+{
+	z-index: 52;
+	width: 329px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #F0F0F0;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 26px;
+}
+
+#u371
+{
+	z-index: 51;
+	width: 381px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/pueblo-u371-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u134
+{
+	z-index: 3;
+	min-height: 48px;
+	padding-bottom: 26px;
+}
+
+#u106_align_to_page,#u134_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u136-4
+{
+	z-index: 73;
+	width: 118px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 905px;
+}
+
+#u137
+{
+	z-index: 77;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1056px;
+}
+
+#u139
+{
+	z-index: 78;
+	width: 33px;
+	height: 33px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1121px;
+}
+
+#u134-bw
+{
+	z-index: 3;
+	min-height: 48px;
+	margin-top: 44px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-bottom: 73px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

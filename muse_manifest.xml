@@ -1,0 +1,64 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://luciacabeza.github.io/LuciaC.github.io" resolutions="1x" timestamp="1545265455931">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-p_g_-maestra.css" crc="4146100025" ref="datos-historicos:estafa:normas-conducir:zanahorias:reyafricano:curiosidades:balas:pueblodro:animales:index"/>
+    <file name="datos-historicos.css" crc="3889865441" ref="datos-historicos"/>
+    <file name="estafa.css" crc="70931967" ref="estafa"/>
+    <file name="normas-conducir.css" crc="4030900060" ref="normas-conducir"/>
+    <file name="zanahorias.css" crc="4090795965" ref="zanahorias"/>
+    <file name="reyafricano.css" crc="264596234" ref="reyafricano"/>
+    <file name="curiosidades.css" crc="115821619" ref="curiosidades"/>
+    <file name="balas.css" crc="3906315998" ref="balas"/>
+    <file name="pueblodro.css" crc="3792090246" ref="pueblodro"/>
+    <file name="animales.css" crc="3887885856" ref="animales"/>
+    <file name="index.css" crc="149408627" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pueblo-colocado.tif" crc="455158773" seo="true" mt="1433015058000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:curiosidades:datos-historicos:animales:pueblodro:reyafricano:estafa:balas:zanahorias:normas-conducir"/>
+    <file name="museutils.js" crc="183364071" ref="index:curiosidades:datos-historicos:animales:pueblodro:reyafricano:estafa:balas:zanahorias:normas-conducir"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:curiosidades:pueblodro:reyafricano:estafa:balas:zanahorias:normas-conducir"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:curiosidades:datos-historicos:animales:pueblodro:reyafricano:estafa:balas:zanahorias:normas-conducir"/>
+    <file name="webpro.js" crc="3803554875" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:curiosidades:datos-historicos:animales"/>
+  </folder>
+  <folder name="images">
+    <file name="curiosity-02-02.png" crc="4055132244" ref="index"/>
+    <file name="31466.jpg" crc="3776747165" seo="true" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="blank.gif" crc="4208392903" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="481236-pgfqzt-166.jpg" crc="482218026" seo="true" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="ob81kt0.jpg" crc="441118655" seo="true" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="od2t1f0.jpg" crc="4180574923" seo="true" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="loading.gif" crc="3815509949" ref="index:curiosidades:datos-historicos:animales"/>
+    <file name="cerditos-u325-fr.jpg" crc="4218768331" ref="index"/>
+    <file name="1577-u339-fr.jpg" crc="4057976494" ref="index:curiosidades"/>
+    <file name="banco-u349-fr.jpg" crc="4210924948" ref="index:curiosidades"/>
+    <file name="carlosiii.jpg" crc="307258593" ref="index"/>
+    <file name="manojo-zanahorias_61792-516-u367-fr.jpg" crc="4038989737" ref="index:curiosidades"/>
+    <file name="pueblo-u371-fr.jpg" crc="4058530484" ref="index:curiosidades"/>
+    <file name="facebook.gif" crc="499613595" ref="index"/>
+    <file name="instagram.gif" crc="514118870" ref="index"/>
+    <file name="rey africano que gobierna por skype2-u443-fr.jpg" crc="3980698706" ref="curiosidades"/>
+    <file name="cerditos-u447-fr.jpg" crc="160647272" ref="curiosidades"/>
+    <file name="pueblo.jpg" crc="4023610064" ref="pueblodro"/>
+    <file name="rey africano que gobierna por skype2.jpg" crc="3862705305" ref="reyafricano"/>
+    <file name="banco.jpg" crc="234503482" ref="estafa"/>
+    <file name="cerditos.jpg" crc="4104085010" ref="balas"/>
+    <file name="manojo-zanahorias_61792-516.jpg" crc="4126519047" ref="zanahorias"/>
+    <file name="1577.jpg" crc="72496402" ref="normas-conducir"/>
+  </folder>
+  <file name="index.html" crc="4124540364" seo="true" mt="1545265343817" redirect="true"/>
+  <file name="curiosidades.html" crc="3776068072" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="datos-historicos.html" crc="3820799161" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="animales.html" crc="250346566" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="pueblodro.html" crc="4018264039" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="reyafricano.html" crc="3774196846" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="estafa.html" crc="231791777" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="balas.html" crc="3917410323" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="zanahorias.html" crc="3950128095" seo="true" mt="1545265343741" redirect="true"/>
+  <file name="normas-conducir.html" crc="4228364987" seo="true" mt="1545265343741" redirect="true"/>
+</manifest>
